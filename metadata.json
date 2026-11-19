@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge AI",
+  "description": "Surplus food rescue and intelligent redistribution platform connecting donors, verified NGOs, and volunteers with food safety passports and verifiable certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
